@@ -13,7 +13,7 @@
   "dependencies": {
     "@strapi/strapi": "4.6.0",
     "@strapi/plugin-users-permissions": "4.6.0",
-    "@strapi/plugin-i18n": "4.5.6",
+    "@strapi/plugin-i18n": "4.6.0",
     "mysql": "2.18.1"
   },
   "author": "johngerome <johngerome@gmail.com> (https://johngerome.github.io)",
