@@ -11,9 +11,9 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.10.2",
-    "@strapi/plugin-users-permissions": "4.10.2",
-    "@strapi/plugin-i18n": "4.10.5",
+    "@strapi/strapi": "4.11.7",
+    "@strapi/plugin-users-permissions": "4.11.7",
+    "@strapi/plugin-i18n": "4.11.7",
     "mysql": "2.18.1"
   },
   "author": "johngerome <johngerome@gmail.com> (https://johngerome.github.io)",
